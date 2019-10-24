@@ -1,0 +1,4 @@
+framework module DriveKitDriverDataUI {
+  header "DriveKitDriverDataUI-Swift.h"
+  requires objc
+}
