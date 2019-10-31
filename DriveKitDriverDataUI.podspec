@@ -10,5 +10,6 @@ Pod::Spec.new do |s|
 
   s.ios.vendored_frameworks = 'DriveKitDriverDataUI.framework'
   s.dependency "DriveKitDriverData"
+  s.dependency "DriveKitTripAnalysis"
   s.requires_arc = true
 end
