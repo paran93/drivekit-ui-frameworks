@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name           = "DriveKitDriverDataUI"
-  s.version        = "1.1.1"
+  s.version        = "1.1.3"
   s.summary        = "DriveKit Driver Data UI"
   s.homepage       = "https://www.drivequant.com"
   s.license        = 'Private'
